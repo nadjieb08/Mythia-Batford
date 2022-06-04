@@ -18,7 +18,7 @@
 
 ---
 ## RUN Bot Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Johannes2803/Mythia-Batford)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nadjieb08/Mythia-Batford)
 ## Join Group Diskusi
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DYbwxUvMEzTEsOuYQnBDm2) 
 
